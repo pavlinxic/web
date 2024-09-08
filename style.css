@@ -2034,12 +2034,12 @@ header .slider {
     }
   }
   :root {
-    --icon-search: url("/instagram-logo-24.png");
-    --icon-star: url("/gmail-logo-24.png");
-    --icon-more: url("/phone-regular-24.png");
-    --icon-refresh: url("/whatsapp-logo-24.png");
-    --icon-back: url("/twitter-logo-24.png");
-    --icon-house: url("/telegram-logo-24.png");
+    --icon-search: url("instagram-logo-24.png");
+    --icon-star: url("gmail-logo-24.png");
+    --icon-more: url("phone-regular-24.png");
+    --icon-refresh: url("whatsapp-logo-24.png");
+    --icon-back: url("twitter-logo-24.png");
+    --icon-house: url("telegram-logo-24.png");
     --icon-1: var(--icon-house);
     --icon-2: var(--icon-search);
     --icon-3: var(--icon-star);
